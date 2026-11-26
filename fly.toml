@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for rvg-mohsen on 2026-11-26T19:05:00Z
+# fly.toml app configuration file generated for rvg-mohsen-cbekeg on 2026-11-26T20:18:56Z
 #
 # See https://docs.fly.io/reference/configuration for information about how to use this file.
 #
 
-app = 'rvg-mohsen'
-primary_region = 'iad'
+app = 'rvg-mohsen-cbekeg'
+primary_region = 'fra'
 
 [build]
 [env]
